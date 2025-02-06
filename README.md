@@ -16,3 +16,13 @@ Bradesco Foundation - Virtual School
 Python Programming Language (Track - 53 hours) - Introduction to Object-Oriented Programming (OOP); Python Programming Language - Basics; Object-Oriented Development Using the Python Language; Creating a Project with a Graphical Interface Using the Python Language...; Developing a Complete Python Project with Structures...
 
 2024 - 2024 - Microsoft Learn - Python Tracks
+
+Software and equipment used for development: Python 3.12.8 - Libraries (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn, Kivy, Flask)
+
+Operating System: Windows 11 Home Single Language.
+
+Computer: HP 256 G9 - Intel Core I3.
+
+Data Analysis and Machine Learning
+
+© 2025 - by Robson Silva - Python Programmer and Data Analyst.
